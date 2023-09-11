@@ -34,6 +34,10 @@ why? how? effect? limitations? - be descriptive!!
   
   README.txt - Detailed description of your project or tool usage
   
+  `git remote add <name> <ssh>`to create bridge between local repository and GitHub
+  
+  `git push` to send to GitHub
+  
   
 
  
