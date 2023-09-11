@@ -62,4 +62,8 @@
    
    - send data via the link: `git push`
 
+8. How to update from the remote to the local:
+   
+   `git pull`
+
 
