@@ -53,3 +53,13 @@
    `git diff <commit ID1> <commit ID2>`
 
         commit ID can be obtained from the `git log` 
+
+7. How to create and use a link between a local and remote repository:
+   
+   - create a link (bridge): `git remote add <name4link> <ssh>`
+     
+     name4link is usually the same name as the name of my repository. It is just a nem for the link that is being created. Hence, it could be also a different name. 
+   
+   - send data via the link: `git push`
+
+

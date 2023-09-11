@@ -28,7 +28,7 @@ why? how? effect? limitations? - be descriptive!!
   
   P.S.: to check in what conceptual area my file are I can use `git status`
 
-- GitHub 
+- Remote repository: Online repository linked to your local repository (works as a cloud-based backup for the local repository).  Represented by GitHub.
   
   .gitignore - List of files that should not be added to the repository
   
