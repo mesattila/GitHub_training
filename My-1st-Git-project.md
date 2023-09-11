@@ -28,6 +28,14 @@ why? how? effect? limitations? - be descriptive!!
   
   P.S.: to check in what conceptual area my file are I can use `git status`
 
+- GitHub 
+  
+  .gitignore - List of files that should not be added to the repository
+  
+  README.txt - Detailed description of your project or tool usage
+  
+  
+
  
 
   **VI editor - an alternative way to add commit**
@@ -37,3 +45,9 @@ i = to start insertion (writing)
 when finished press <u>esc</u> to exit insertion mode
 
 then type <u>:wq</u> and enter to save and quit (this should appear on the bottom of the page)
+
+
+
+When comparing commits in the timeline we can do that with `git show` and `git dif` commands and we have to add the commit IDs that we want to compare. We can compare more than two as well. 
+
+
