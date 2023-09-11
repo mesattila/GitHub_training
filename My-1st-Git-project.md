@@ -28,7 +28,9 @@ why? how? effect? limitations? - be descriptive!!
   
   the history and tracking of all the changes (it is the .git file)
   
-  P.S.: to check in what conceptual 
+  P.S.: to check in what conceptual area my file are I can use git status
+  
+  
   
   **Manual of git commands**
   
