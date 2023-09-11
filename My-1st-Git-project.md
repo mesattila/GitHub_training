@@ -28,7 +28,7 @@ why? how? effect? limitations? - be descriptive!!
   
   the history and tracking of all the changes (it is the .git file)
   
-  
+  P.S.: to check in what conceptual 
   
   **Manual of git commands**
   
