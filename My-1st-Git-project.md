@@ -29,6 +29,30 @@ why? how? effect? limitations? - be descriptive!!
   the history and tracking of all the changes (it is the .git file)
   
   
+  
+  **Manual of git commands**
+  
+  1. How to initialize it
+     
+     `git init `
+  
+  2. How to send it to staging area
+     
+     `git add <file_name>`
+  
+  3.  How to commit to creat my 1st snapshot
+     
+     `git commit -m "Meaningful message"`
+  
+  4. How to check in what conceptual areas my files are 
+     
+     `git status`
+     
+     P.S.: Uncommitted, Unstaged, Untracked files
+     
+     
+  
+  
 
 
 
