@@ -66,4 +66,12 @@
    
    `git pull`
 
+9. Go back to the previous commit
+   
+   git revert HEAD (still in history)
+   
+   git reset (no history)
 
+10. retrieve back from remote to local
+    
+    git clone
