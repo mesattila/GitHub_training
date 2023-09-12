@@ -36,11 +36,7 @@ why? how? effect? limitations? - be descriptive!!
   
   `git push` to send to GitHub
 
-<<<<<<< HEAD
-=======
 
-> > > > > > > Groot
-> > > > > > >   **VI editor - an alternative way to add commit**
 
 i = to start insertion (writing)
 
@@ -61,8 +57,7 @@ On Github, ask other people to collaborate in your project.
 - Clone the remote repository onto your own local computer using the git clone command and the SSH key. 
 
 - Move into the cloned folder to proceed working into it. 
-
-
+ 
 
 creating: `git branch <name_of_newbranch>`
 
