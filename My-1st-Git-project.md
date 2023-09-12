@@ -35,8 +35,12 @@ why? how? effect? limitations? - be descriptive!!
   `git remote add <name> <ssh>`to create bridge between local repository and GitHub
   
   `git push` to send to GitHub
-  
-  **VI editor - an alternative way to add commit**
+
+<<<<<<< HEAD
+=======
+
+> > > > > > > Groot
+> > > > > > >   **VI editor - an alternative way to add commit**
 
 i = to start insertion (writing)
 
@@ -60,4 +64,8 @@ On Github, ask other people to collaborate in your project.
 
 
 
-create conflict
+creating: `git branch <name_of_newbranch>`
+
+switching: `git checkout <name_of_the_branch>`
+
+Checking for new branch I need to pull: git fetch
