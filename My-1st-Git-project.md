@@ -57,7 +57,3 @@ On Github, ask other people to collaborate in your project.
 - Clone the remote repository onto your own local computer using the git clone command and the SSH key. 
 
 - Move into the cloned folder to proceed working into it. 
-
-
-
-**Adding new line to start a conflict**
