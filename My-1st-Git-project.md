@@ -35,7 +35,7 @@ why? how? effect? limitations? - be descriptive!!
   `git remote add <name> <ssh>`to create bridge between local repository and GitHub
   
   `git push` to send to GitHub
-
+  
   **VI editor - an alternative way to add commit**
 
 i = to start insertion (writing)
@@ -45,8 +45,6 @@ when finished press <u>esc</u> to exit insertion mode
 then type <u>:wq</u> and enter to save and quit (this should appear on the bottom of the page)
 
 When comparing commits in the timeline we can do that with `git show` and `git dif` commands and we have to add the commit IDs that we want to compare. We can compare more than two as well. 
-
-
 
 **How to collaborate with others? **
 
@@ -59,3 +57,7 @@ On Github, ask other people to collaborate in your project.
 - Clone the remote repository onto your own local computer using the git clone command and the SSH key. 
 
 - Move into the cloned folder to proceed working into it. 
+
+
+
+create conflict
