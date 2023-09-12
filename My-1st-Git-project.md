@@ -35,7 +35,7 @@ why? how? effect? limitations? - be descriptive!!
   `git remote add <name> <ssh>`to create bridge between local repository and GitHub
   
   `git push` to send to GitHub
-
+  
   **VI editor - an alternative way to add commit**
 
 i = to start insertion (writing)
@@ -45,8 +45,6 @@ when finished press <u>esc</u> to exit insertion mode
 then type <u>:wq</u> and enter to save and quit (this should appear on the bottom of the page)
 
 When comparing commits in the timeline we can do that with `git show` and `git dif` commands and we have to add the commit IDs that we want to compare. We can compare more than two as well. 
-
-
 
 **How to collaborate with others? **
 
@@ -59,3 +57,16 @@ On Github, ask other people to collaborate in your project.
 - Clone the remote repository onto your own local computer using the git clone command and the SSH key. 
 
 - Move into the cloned folder to proceed working into it. 
+
+
+
+Branching: 
+
+It is possible to make an 'alt, avoiding potential conflicts when collaborating: 
+
+`git branch<Name>`. 
+
+- To switch between branches:`git checkout` (also possible to go to an old commit this way)
+  - Moving in between branches also changes what you see in your folder! If you add files/change files in side branch, you will not see those in the master branch. Your folder constitutes a 'mirror' of the branch you are in. Branches should have a name that makes it clear what you are working on in that specific branch.
+  - Having a look at the branches you have made: `git branch` or `git branch --list`
+  - You can also see in which branch you are using `git status`
